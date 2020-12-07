@@ -1,0 +1,165 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" lang="en" id="myopera-theme115" xml:lang="en">
+<head><meta http-equiv="Content-Type" content="text/html; charset=utf-8" /><title>Roch Brada - DSCN1380.JPG</title><link rel="stylesheet" href="/community/css/themes/mobile01.css" type="text/css" media="handheld" /><link rel="stylesheet" href="/community/css/users/115/mobile.css" type="text/css" media="handheld" /><link rel="stylesheet" href="/community/css/users/115/main.css" type="text/css" media="screen,projection,print" /><link rel="stylesheet" href="/community/css/themes/mobilealbums01.css" type="text/css" media="handheld" /><link rel="stylesheet" href="/community/css/users/115/photos.css" type="text/css" media="screen,projection,print" /><link rel="stylesheet" href="http://files.myopera.com/Gusioo/user.css" type="text/css" media="screen,projection,print" charset="utf-8" /><style type="text/css" media="screen,projection,print">@import url(/community/css/themes/common-2.css);
+		#myo2, #myo-news { width:920px; }
+		</style><link rel="stylesheet" href="/community/css/users/top2.css" type="text/css" media="screen,projection,print" /><style type="text/css" media="screen,projection,print">
+		#side ul:after {
+			content:".";
+			display:block;
+			height:0;
+			clear:both;
+			visibility:hidden;
+			}
+		</style><link rel="shortcut icon" href="/community/favicon.ico" type="image/x-icon" /><link rel="meta" type="application/rdf+xml" title="FOAF" href="/Gusioo/xml/foaf/" /><link rel="alternate" type="application/rss+xml" title="RSS 2.0 Feed for photo album" href="/Gusioo/xml/rss/album/390761" /><link rel="alternate" type="application/atom+xml" title="Atom 1.0 Feed for photo album" href="/Gusioo/xml/atom/album/390761" /><link rel="index" href="/Gusioo/albums/show.dml?id=390761" /><link rel="prev" href="/Gusioo/albums/showpic.dml?album=390761&amp;picture=5554329" /><link rel="next" href="/Gusioo/albums/showpic.dml?album=390761&amp;picture=5554326" /></head>
+<body id="myopera"><p class="hide"><a href="#content">Skip navigation</a>.</p><div id="myo"><div id="myo2"><form method="get" action="/community/googlesearch/" target="_top" id="top-search"><div><input type="hidden" name="domains" value="my.opera.com" /><input type="text" name="q" size="40" maxlength="255" value="" id="top-searchbox" title="enter your search terms" /><input type="image" src="/community/graphics/main/search2.gif" alt="search" name="sa" id="gsearch-submit" /><p><img src="/community/graphics/main/google2.gif" width="101" height="17" alt="powered by google" class="right hidemobile" /><input type="radio" name="sitesearch" value="" id="ss0" /> <label for="ss0" title="Search the Web">Web</label> <input type="radio" name="sitesearch" value="my.opera.com" checked="checked" id="ss1" /> <label for="ss1" title="Search my.opera.com">my.opera.com</label></p><input type="hidden" name="perscreen" value="10" /><input type="hidden" name="client" value="pub-3796773913386149" /><input type="hidden" name="forid" value="1" /><input type="hidden" name="ie" value="UTF-8" /><input type="hidden" name="oe" value="UTF-8" /><input type="hidden" name="safe" value="active" /><input type="hidden" name="cof" value="GALT:#008000;GL:1;DIV:#336699;VLC:663399;AH:center;BGC:FFFFFF;LBGC:336699;ALC:0000FF;LC:0000FF;T:000000;GFNT:0000FF;GIMP:0000FF;FORID:11" /><input type="hidden" name="hl" value="en" /></div></form><a href="/community/" title="My Opera community home page" id="myo-logo"><img src="/community/graphics/users/topmenu2/logo.gif" width="115" height="48" alt="My Opera Community" class="hidemobile" /><img src="/community/graphics/main/logo-mobile.gif" width="129" height="19" alt="My Opera Community" class="mobile" /></a><p id="mtabs" class="mobile"><a href="/community/"><img src="/community/graphics/mobile/tab1a.gif" width="44" height="14" alt="explore" /></a><a href="/community/opera/"><img src="/community/graphics/mobile/tab5a.gif" width="37" height="14" alt="opera" /></a></p><ul id="toplinx"><li id="explore" style="border:none"><a href="/community/" class="hidemobile droparrow"><span>Explore</span></a><ul class="drop hidemobile"><li><a href="/community/" style="background-position:6px 0px">Home</a></li><li><a href="/community/blogs/" style="background-position:6px -23px">Blogs</a></li><li><a href="/community/albums/" style="background-position:6px -48px">Photos</a></li><li><a href="/community/people/" style="background-position:6px -96px">Members</a></li><li><a href="/community/forums/" style="background-position:6px -72px">Forums</a></li><li><a href="/community/groups/" style="background-position:6px -120px">Groups</a></li></ul></li><li id="opera"><a href="/community/opera/" class="hidemobile droparrow"><span>Opera</span></a><ul class="drop hidemobile"><li><a href="/community/opera/" style="background-position:6px -144px">Opera for PC/Mac</a></li><li><a href="/community/mobile/" style="background-position:6px -168px">Opera Mini</a></li><li class="hidemobile"><a href="/community/customize/" style="background-position:6px -216px">Skins + Setups</a></li><li class="hidemobile"><a href="/community/opera/wallpapers/" style="background-position:6px -387px">Wallpapers</a></li><li><a href="/community/opera/buttons/" style="background-position:6px -411px">Buttons</a></li><li><a href="/community/operastore/" style="background-position:6px -364px">Shop</a></li><li><a href="/community/openweb/" style="background-position:6px -216px">Open the Web</a></li><li><a href="/chooseopera/blog/" style="background-position:6px -435px">Choose Opera</a></li></ul></li><li class="hidemobile" id="login"><a href="/community/login/" onclick="document.getElementById('myo-login').className = 'show';document.getElementById('toplinx').className = 'hide';document.getElementById('top-search').className = 'hide';document.getElementById('username').focus();return false;">
+	
+					Log in</a></li><li class="hidemobile"><a href="/community/signup/">Sign up</a></li></ul><form action="/community/login/index.pl" method="post" id="myo-login" class="hide" name="toplogin"><div><a href="/Gusioo/" onclick="document.getElementById('myo-login').className = 'hide';document.getElementById('toplinx').className = 'show';document.getElementById('top-search').className = 'show';return false;"><input type="button" name="cancel" value="close [x]" id="close" style="float:right;margin-top:-12px;margin-right:4px;padding:0 2px;font-size:10px;" /></a><p><span class="m"><label for="username"><b><span>username:</span></b> <input type="text" name="user" value="" maxlength="64" class="login" id="username" /></label> </span><span class="m"><label for="password"><b><span>password:</span></b> <input type="password" name="passwd" value="" maxlength="64" class="login" id="password" /></label> </span><span class="m"><label for="rememberme"><span><input type="checkbox" name="remember" value="1" id="rememberme" /> remember</span></label></span> <span class="m"><input type="submit" value=" log in " style="font-weight:bold" /></span> <span class="hidemobile"> | <a href="/community/help/">Help</a></span></p><p style="clear:both" class="mobile" id="mbx"><b><a href="/community/signup/">Sign up</a></b> | <a href="/community/help/">Help</a></p></div></form></div></div><div id="wrap0"><div id="wrap1"><div id="wrap2"><div id="wrap3"><div id="wrap4"><div id="top" class="top-albums"><div id="top2"><h1><span>Zdjęcia, które Roch popełnił</span></h1><p id="subtitle"><span>Rowerowe też są</span></p></div><div id="menu"><ul><li id="menu_blog"><a href="/Gusioo/blog/">
+		Blog
+		</a></li><li id="menu_archive"><a href="/Gusioo/archive/">Archive</a></li><li id="menu_albums"><a href="/Gusioo/albums/" id="selected">Photos</a></li><li id="menu_links"><a href="/Gusioo/links/">Links</a></li><li id="menu_friends"><a href="/Gusioo/friends/">Friends</a></li><li id="menu_about"><a href="/Gusioo/about/">About</a></li></ul><div class="mobile" id="mobmenu"></div></div></div><div id="content" class="viewphoto"><div id="mainwrap"><div id="main">
+
+
+
+   
+
+   
+
+   
+   
+
+   
+
+   
+
+   
+
+   
+
+   
+
+   
+
+   
+
+   
+
+   
+   
+
+   
+
+   
+
+   
+
+
+   
+
+
+   
+
+   
+
+
+<div id="frame1"><div id="frame2"><div id="frame3"><div id="frame4"><div id="bigimg"><a href="/Gusioo/albums/showpic.dml?album=390761&amp;picture=5554326" title="click to view next image"><img src="http://files.myopera.com/Gusioo/albums/390761/IMG0N8E22WKE6.jpg" alt="Marzocchi Bomber MX Comp Air - DSCN1380.JPG" class="scaled" /></a><a href="http://files.myopera.com/Gusioo/albums/390761/IMG0N8E22WKE6.jpg" class="hidemobile" title="zoom"><img src="/community/graphics/buttons/zoom4.gif" width="56" height="19" alt="zoom" id="zoom" /></a></div><p>
+		&lt; <a href="/Gusioo/albums/showpic.dml?album=390761&amp;picture=5554329">Prev<span class="hidemobile">ious</span></a> | <a href="/Gusioo/albums/show.dml?id=390761">View all</a> | <a href="/Gusioo/albums/showpic.dml?album=390761&amp;picture=5554326">Next</a> &gt;
+		</p></div></div></div></div><div id="belowimage"></div><div id="newcomment" class="w100"><h2><span>Write a comment</span></h2><form action="/Gusioo/comments/addcomment.pl" method="post" class="w100" name="addcomment" id="addcomment" onsubmit="&#10;            if((this.message.value.replace(/\s/g,&quot;&quot;)).length == 0) { alert('You have not written a comment.'); return false; }&#10;          "><div><input type="hidden" name="rtype" value="image" /><input type="hidden" name="id" value="5554325" /><input type="hidden" id="commentid" name="commentid" value="" /><input type="hidden" name="key" value="1d4fc8c4373a867d652adeca475c51df6a74c705" /><p><label><b>Your name</b><br /><input type="text" name="anonymous" value="Anonymous" /></label></p><p><b>Comment</b><br /><span class="small clear">(BBcode and HTML is turned off for anonymous user comments.)</span><br /><textarea name="comment" id="message" cols="40" rows="6" lang="" xml:lang="" dir=""></textarea></p><p><span>P</span><!-- id3001327 --><span>lea</span><!-- id3001108 --><span>se t&#x79;pe</span><!-- id3001115 --><span> </span><!-- id3001217 --><span>this </span><!-- id3001225 --><span>s</span><!-- id3001232 --><span>ec</span><!-- id3001239 --><span>ur&#x69;</span><!-- id3001246 --><span>t&#x79;</span><!-- id3001253 --><span> co&#x64;e : 6&#x62;f</span><!-- id3001260 --><span>4&#x38;7</span><!-- id3001267 --><input type="hidden" value="4875a7b0f0dabe6214b895edb4fe0dde_1206129838" name="publickey" /></p><p><label for="oivinput" class="c1"><b>Security code:</b></label> <input type="text" name="oivinput" id="oivinput" class="inputfield" /></p><input type="hidden" name="location" value="/Gusioo/albums/showpic.dml?album=390761&amp;picture=5554325" /><input type="hidden" name="startidx" value="0" /><div id="addsmilies"><img src="/community/graphics/ui/smilies.gif" alt="Smilies" onclick="toggle('smilies')" title="Smilies" width="23" height="22" id="addsmile" class="hidemobile" /><div id="smilies" class="hidemobile" style="display:none"><div class="horizontal"><a href="#" onclick="smilie(':)'); return false;"><img src="/community/graphics/smilies/smile.gif" alt="" width="17" height="17" title="smile" /></a> 
+<a href="#" onclick="smilie(':('); return false;"><img src="/community/graphics/smilies/frown.gif" alt="" width="17" height="17" title="frown" /></a> 
+<a href="#" onclick="smilie(':o'); return false;"><img src="/community/graphics/smilies/blush.gif" alt="" width="17" height="17" title="embarrasment" /></a> 
+<a href="#" onclick="smilie(':D'); return false;"><img src="/community/graphics/smilies/bigsmile.gif" alt="" width="17" height="17" title="big grin" /></a> 
+<a href="#" onclick="smilie(';)'); return false;"><img src="/community/graphics/smilies/wink.gif" alt="" width="17" height="17" title="wink" /></a> 
+<a href="#" onclick="smilie(':p'); return false;"><img src="/community/graphics/smilies/tongue.gif" alt="" width="17" height="17" title="stick out tongue" /></a> 
+<a href="#" onclick="smilie(':cool:'); return false;"><img src="/community/graphics/smilies/cool.gif" alt="" width="17" height="17" title="cool" /></a> 
+<a href="#" onclick="smilie(':happy:'); return false;"><img src="/community/graphics/smilies/pleased.gif" alt="" width="17" height="17" title="happy" /></a> 
+<a href="#" onclick="smilie(':rolleyes:'); return false;"><img src="/community/graphics/smilies/rolleyes.gif" alt="" width="17" height="17" title="roll eyes (sarcastic)" /></a> 
+<a href="#" onclick="smilie(':lol:'); return false;"><img src="/community/graphics/smilies/haha.gif" alt="" width="17" height="22" title="laugh" /></a> 
+<a href="#" onclick="smilie(':eek:'); return false;"><img src="/community/graphics/smilies/eek.gif" alt="" width="17" height="17" title="eek!" /></a> 
+<a href="#" onclick="smilie(':worried:'); return false;"><img src="/community/graphics/smilies/worried.gif" alt="" width="17" height="17" title="worried" /></a> 
+<a href="#" onclick="smilie(':awww:'); return false;"><img src="/community/graphics/smilies/awww.gif" alt="" width="17" height="17" title="awww" /></a> 
+<a href="#" onclick="smilie(':cry:'); return false;"><img src="/community/graphics/smilies/weeping.gif" alt="" width="27" height="18" title="crying" /></a> 
+<a href="#" onclick="smilie(':mad:'); return false;"><img src="/community/graphics/smilies/mad.gif" alt="" width="17" height="17" title="mad" /></a> 
+<a href="#" onclick="smilie(':irked:'); return false;"><img src="/community/graphics/smilies/irked.gif" alt="" width="17" height="17" title="irked" /></a> 
+<a href="#" onclick="smilie(':yuck:'); return false;"><img src="/community/graphics/smilies/yuck.gif" alt="" width="17" height="17" title="yuck" /></a> 
+<a href="#" onclick="smilie(':eyes:'); return false;"><img src="/community/graphics/smilies/bigeyes.gif" alt="" width="17" height="17" title="eye popping" /></a> 
+<a href="#" onclick="smilie(':yikes:'); return false;"><img src="/community/graphics/smilies/yikes.gif" alt="" width="17" height="26" title="yikes!" /></a> 
+<a href="#" onclick="smilie(':ko:'); return false;"><img src="/community/graphics/smilies/knockout.gif" alt="" width="17" height="17" title="knockout" /></a> 
+<a href="#" onclick="smilie(':left:'); return false;"><img src="/community/graphics/smilies/left.gif" alt="" width="17" height="17" title="looking left" /></a> 
+<a href="#" onclick="smilie(':right:'); return false;"><img src="/community/graphics/smilies/right.gif" alt="" width="17" height="17" title="looking right" /></a> 
+<a href="#" onclick="smilie(':whistle:'); return false;"><img src="/community/graphics/smilies/whistle.gif" alt="" width="18" height="17" title="whistle" /></a> 
+<a href="#" onclick="smilie(':zip:'); return false;"><img src="/community/graphics/smilies/zipped.gif" alt="" width="17" height="17" title="zipped lips" /></a> 
+<a href="#" onclick="smilie(':confused:'); return false;"><img src="/community/graphics/smilies/confused.gif" alt="" width="24" height="17" title="confused" /></a> 
+<a href="#" onclick="smilie(':wait:'); return false;"><img src="/community/graphics/smilies/waiting.gif" alt="" width="27" height="17" title="waiting" /></a> 
+<a href="#" onclick="smilie(':zzz:'); return false;"><img src="/community/graphics/smilies/zzz.gif" alt="" width="17" height="22" title="sleeping" /></a> 
+<a href="#" onclick="smilie(':faint:'); return false;"><img src="/community/graphics/smilies/faint.gif" alt="" width="19" height="23" title="faint" /></a> 
+<a href="#" onclick="smilie(':idea:'); return false;"><img src="/community/graphics/smilies/idea.gif" alt="" width="26" height="17" title="idea" /></a> 
+<a href="#" onclick="smilie(':sst:'); return false;"><img src="/community/graphics/smilies/sst.gif" alt="" width="17" height="17" title="pssst" /></a> 
+<a href="#" onclick="smilie(':angel:'); return false;"><img src="/community/graphics/smilies/angel.gif" alt="" width="15" height="19" title="angel" /></a> 
+<a href="#" onclick="smilie(':devil:'); return false;"><img src="/community/graphics/smilies/devil.gif" alt="" width="17" height="18" title="devil" /></a> 
+<a href="#" onclick="smilie(':nervous:'); return false;"><img src="/community/graphics/smilies/nervous.gif" alt="" width="17" height="17" title="nervous" /></a> 
+<a href="#" onclick="smilie(':insane:'); return false;"><img src="/community/graphics/smilies/scared.gif" alt="" width="27" height="18" title="paranoid" /></a> 
+<a href="#" onclick="smilie(':bomb:'); return false;"><img src="/community/graphics/smilies/bomb.gif" alt="" width="25" height="20" title="bomb" /></a> 
+<a href="#" onclick="smilie(':furious:'); return false;"><img src="/community/graphics/smilies/furious.gif" alt="" width="30" height="27" title="furious" /></a> 
+<a href="#" onclick="smilie(':love:'); return false;"><img src="/community/graphics/smilies/love.gif" alt="" width="26" height="17" title="love" /></a> 
+<a href="#" onclick="smilie(':flirt:'); return false;"><img src="/community/graphics/smilies/flirt.gif" alt="" width="25" height="17" title="love" /></a> 
+<a href="#" onclick="smilie(':heart:'); return false;"><img src="/community/graphics/smilies/heart.gif" alt="" width="15" height="15" title="Heart" /></a> 
+<a href="#" onclick="smilie(':cheers:'); return false;"><img src="/community/graphics/smilies/cheers.gif" alt="" width="27" height="17" title="cheers" /></a> 
+<a href="#" onclick="smilie(':yes:'); return false;"><img src="/community/graphics/smilies/yes.gif" alt="" width="43" height="17" title="Yes" /></a> 
+<a href="#" onclick="smilie(':no:'); return false;"><img src="/community/graphics/smilies/no.gif" alt="" width="45" height="20" title="No" /></a> 
+<a href="#" onclick="smilie(':up:'); return false;"><img src="/community/graphics/smilies/thumbsup.gif" alt="" width="27" height="17" title="thumbs up" /></a> 
+<a href="#" onclick="smilie(':down:'); return false;"><img src="/community/graphics/smilies/thumbsdown.gif" alt="" width="27" height="17" title="thumbs down" /></a> 
+<a href="#" onclick="smilie(':coffee:'); return false;"><img src="/community/graphics/smilies/coffee.gif" alt="" width="31" height="20" title="coffee" /></a> 
+<a href="#" onclick="smilie(':sing:'); return false;"><img src="/community/graphics/smilies/sing.gif" alt="" width="26" height="26" title="singing" /></a> 
+<a href="#" onclick="smilie(':wine:'); return false;"><img src="/community/graphics/smilies/wine.gif" alt="" width="10" height="16" title="wine" /></a> 
+<a href="#" onclick="smilie(':beer:'); return false;"><img src="/community/graphics/smilies/beeer.gif" alt="" width="15" height="15" title="beer" /></a> 
+<a href="#" onclick="smilie(':star:'); return false;"><img src="/community/graphics/smilies/star.gif" alt="" width="12" height="17" title="star" /></a> 
+<a href="#" onclick="smilie(':alien:'); return false;"><img src="/community/graphics/smilies/alien.gif" alt="" width="15" height="17" title="alien" /></a> 
+<a href="#" onclick="smilie(':cat:'); return false;"><img src="/community/graphics/smilies/cat.gif" alt="" width="17" height="19" title="cat" /></a> 
+<a href="#" onclick="smilie(':psmurf:'); return false;"><img src="/community/graphics/smilies/papasmurf.gif" alt="" width="17" height="22" title="papa smurf" /></a> 
+<a href="#" onclick="smilie(':smurf:'); return false;"><img src="/community/graphics/smilies/smurf.gif" alt="" width="17" height="22" title="smurf" /></a> 
+<a href="#" onclick="smilie(':pirate:'); return false;"><img src="/community/graphics/smilies/pirate.gif" alt="" width="26" height="19" title="pirate" /></a> 
+<a href="#" onclick="smilie(':ninja:'); return false;"><img src="/community/graphics/smilies/ninja.gif" alt="" width="27" height="17" title="ninja" /></a> 
+<a href="#" onclick="smilie(':bandit:'); return false;"><img src="/community/graphics/smilies/bandit.gif" alt="" width="17" height="17" title="Bandit" /></a> 
+<a href="#" onclick="smilie(':spock:'); return false;"><img src="/community/graphics/smilies/spock.gif" alt="" width="27" height="16" title="live long and prosper" /></a> 
+<a href="#" onclick="smilie(':knight:'); return false;"><img src="/community/graphics/smilies/knight.gif" alt="" width="23" height="28" title="knight" /></a> 
+<a href="#" onclick="smilie(':chef:'); return false;"><img src="/community/graphics/smilies/chef.gif" alt="" width="29" height="26" title="chef" /></a> 
+<a href="#" onclick="smilie(':clown:'); return false;"><img src="/community/graphics/smilies/sadclown.gif" alt="" width="19" height="21" title="clown" /></a> 
+<a href="#" onclick="smilie(':hat:'); return false;"><img src="/community/graphics/smilies/party.gif" alt="" width="24" height="25" title="party" /></a> 
+<a href="#" onclick="smilie(':drunk:'); return false;"><img src="/community/graphics/smilies/drunk.gif" alt="" width="26" height="25" title="drunk" /></a> 
+<a href="#" onclick="smilie(':wizard:'); return false;"><img src="/community/graphics/smilies/wizard.gif" alt="" width="29" height="27" title="wizard" /></a> 
+<a href="#" onclick="smilie(':king:'); return false;"><img src="/community/graphics/smilies/king.gif" alt="" width="17" height="20" title="king" /></a> 
+<a href="#" onclick="smilie(':queen:'); return false;"><img src="/community/graphics/smilies/queen.gif" alt="" width="17" height="22" title="queen" /></a> 
+<a href="#" onclick="smilie(':sherlock:'); return false;"><img src="/community/graphics/smilies/detective.gif" alt="" width="28" height="30" title="detective" /></a> 
+<a href="#" onclick="smilie(':troll:'); return false;"><img src="/community/graphics/smilies/troll.gif" alt="" width="52" height="22" title="troll" /></a> 
+<a href="#" onclick="smilie(':jester:'); return false;"><img src="/community/graphics/smilies/jester.gif" alt="" width="36" height="26" title="jester" /></a> 
+<a href="#" onclick="smilie(':headbang:'); return false;"><img src="/community/graphics/smilies/headbang.gif" alt="" width="28" height="22" title="Headbang" /></a> 
+<a href="#" onclick="smilie(':doh:'); return false;"><img src="/community/graphics/smilies/doh.gif" alt="" width="44" height="20" title="Homer: doh!" /></a> 
+<a href="#" onclick="smilie(':banana:'); return false;"><img src="/community/graphics/smilies/banana.gif" alt="" width="15" height="16" title="banana" /></a> 
+<a href="#" onclick="smilie(':monkey:'); return false;"><img src="/community/graphics/smilies/monkey.gif" alt="" width="19" height="17" title="monkey" /></a> 
+<a href="#" onclick="smilie(':pingu:'); return false;"><img src="/community/graphics/smilies/pingu.gif" alt="" width="15" height="19" title="penguin" /></a> 
+<a href="#" onclick="smilie(':cow:'); return false;"><img src="/community/graphics/smilies/cow.gif" alt="" width="21" height="16" title="cow" /></a> 
+<a href="#" onclick="smilie(':bug:'); return false;"><img src="/community/graphics/smilies/bug.gif" alt="" width="18" height="17" title="bug" /></a> 
+<a href="#" onclick="smilie(':rip:'); return false;"><img src="/community/graphics/smilies/rip.gif" alt="" width="19" height="17" title="RIP" /></a> 
+<a href="#" onclick="smilie(':hi:'); return false;"><img src="/community/graphics/smilies/hi.gif" alt="" width="16" height="12" title="hi" /></a> 
+<a href="#" onclick="smilie(':bye:'); return false;"><img src="/community/graphics/smilies/bye.gif" alt="" width="22" height="12" title="bye" /></a> 
+</div></div><p class="dsmilies"><input type="checkbox" id="smiliesoff" name="disablesmilies" value="1" /><label for="smiliesoff">Disable <a href="/community/smilies/">smilies</a> in this comment</label></p></div><p><input type="submit" class="submit" name="submit" value="Submit" accesskey="s" /></p></div></form></div>
+
+</div></div><div id="sidewrap"><div id="side"><div class="sidebox" id="imageproperties"><h2>Image properties</h2><div id="myphoto" class="hidemobile"><div><img src="http://files.myopera.com/Gusioo/albums/390761/thumbs/IMG0N8E22WKE6.jpg_thumb.jpg" width="214" height="161" alt="DSCN1380.JPG" /></div></div><div class="pad"><dl id="exif" class="clearfix"><dt class="filename">Name</dt><dd class="filename">DSCN1380.JPG</dd><dt class="access">Access</dt><dd class="access">Publicly available</dd><dt>Camera</dt><dd>NIKON E5600</dd><dt>Original resolution</dt><dd>2592x1944</dd><dt>Shutter Speed</dt><dd>0.0333333 sec</dd><dt>F-number</dt><dd>f/2.9</dd><dt>Picture taken</dt><dd>2007:10:24 10:06:55</dd></dl><div class="clear"></div></div></div><div class="sidebox hidemobile" id="picnav"><h2>Navigate</h2><div class="pad clearfix"><div class="preview" id="p1"><a href="/Gusioo/albums/showpic.dml?album=390761&amp;picture=5554329"><img src="http://files.myopera.com/Gusioo/albums/390761/thumbs/IMGANXHK1ALMN.jpg_thumb.jpg" width="102" height="77" class="block" alt="DSCN1395.JPG" />
+		« Previous</a></div><div class="preview" id="p2"><a href="/Gusioo/albums/showpic.dml?album=390761&amp;picture=5554326"><img src="http://files.myopera.com/Gusioo/albums/390761/thumbs/IMGIX4YFGETET.jpg_thumb.jpg" width="102" height="77" class="block" alt="DSCN1386.JPG" />
+		Next »</a></div><div class="clear"></div></div></div><div class="sidebox"><h2>More albums</h2><div class="pad" id="albumlist"><ul><li><a href="/Gusioo/albums/show.dml?id=51347">Ferie </a></li><li class="even"><a href="/Gusioo/albums/show.dml?id=51908">Bikes</a></li><li><a href="/Gusioo/albums/show.dml?id=66288">Sucha Góra 2006</a></li><li class="even"><a href="/Gusioo/albums/show.dml?id=104273">Segiet 2006</a></li><li><a href="/Gusioo/albums/show.dml?id=154973">Jesienny wypad</a></li><li class="even"><a href="/Gusioo/albums/show.dml?id=232260">W poszukiwaniu wiosny</a></li><li><a href="/Gusioo/albums/show.dml?id=242938">Samotna sobota</a></li><li class="even"><a href="/Gusioo/albums/show.dml?id=249090">Pyrzowice</a></li><li><a href="/Gusioo/albums/show.dml?id=255553">Pniowiec i okolice</a></li><li class="even"><a href="/Gusioo/albums/show.dml?id=273851">Bunkier</a></li><li><a href="/Gusioo/albums/show.dml?id=294126">Okoliczności Kamieńca</a></li><li class="even"><a href="/Gusioo/albums/show.dml?id=333172">Słoneczny dzień</a></li><li><a href="/Gusioo/albums/show.dml?id=341749">Jura - 20-08-2007</a></li><li class="even"><a href="/Gusioo/albums/show.dml?id=386552">Demo car - Honda Civic</a></li><li class="this"><a href="/Gusioo/albums/show.dml?id=390761">Marzocchi Bomber MX Comp Air</a></li><li class="even"><a href="/Gusioo/albums/show.dml?id=405823">Chechło zimą</a></li><li><a href="/Gusioo/albums/show.dml?id=448544">Zatopiona kopalnia</a></li><li class="even"><a href="/Gusioo/albums/show.dml?id=460854">Komputerowe zajafki</a></li><li><a href="/Gusioo/albums/show.dml?id=474329">Ptaki</a></li></ul></div></div></div></div><div id="footer"><div id="footer2"><p id="meta"><a href="/Gusioo/xml/rss/album/390761/" title="RSS 2.0 Feed for photo album"><acronym>RSS</acronym></a> | <a href="/Gusioo/xml/atom/album/390761/" title="Atom 1.0 Feed for photo album">ATOM</a> | <a href="/Gusioo/xml/rdf/album/390761" title="RDF representation of photo album">RDF</a> |
+		<span><a href="/Gusioo/xml/rss/album/390761/"><img src="/community/graphics/feedicon12.gif" width="12" height="12" alt="" class="feedicon" /></a></span><a href="http://widgets.opera.com/widgetize/Gallery Viewer/My Opera/?serve&amp;skin=skin115&amp;widgetname=Blog Rowerowy&amp;rel=myopera&amp;ref=Gusioo" id="widgetize-album" class="widgetize">WIDGETIZE <img src="/community/graphics/widgetize12.gif" width="12" height="12" alt="widgetize" /></a></p><p>
+		A proud member of the <a href="http://my.opera.com/community/" id="o">My Opera community</a>. | <a href="/community/help/">Help</a> | <a href="/community/disclaimer/">Disclaimer</a></p></div></div></div></div></div></div></div></div><script src="/community/js/rate.js" type="text/javascript"></script><script type="text/javascript"><!--
+document.cookie='__support_check=1';
+wa_tz=new Date();wa_data='&an='+escape(navigator.appName)+
+'&hr='+escape(location.href)+'&tks='+wa_tz.getTime()+
+'&ck='+document.cookie.length+
+'&rf='+escape(document.referrer)+'&sl='+escape(navigator.systemLanguage)+
+'&av='+escape(navigator.appVersion)+'&l='+escape(navigator.language)+
+'&pf='+escape(navigator.platform)+'&pg='+escape(location.pathname);
+wa_data=wa_data+'&cd='+
+screen.colorDepth+'&rs='+escape(screen.width+' x '+screen.height)+
+'&tz='+wa_tz.getTimezoneOffset()+'&je='+ navigator.javaEnabled(); wa_img=new
+Image();wa_img.src='http://profiles.hitslink.com/statistics.aspx'+
+'?profile=1'+wa_data+'&tks='+wa_tz.getTime();
+--></script><script type="text/javascript" id="wa_u"></script><script src="/community/js/myopera-hitslink.js" type="text/javascript"></script><script src="/community/js/topbar-menu.js" type="text/javascript"></script></body>
+</html>
+<!-- hostname: b4.opera.com -->

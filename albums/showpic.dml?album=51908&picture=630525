@@ -1,0 +1,87 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" lang="en" id="myopera-theme114" xml:lang="en">
+<head><meta http-equiv="Content-Type" content="text/html; charset=utf-8" /><title>Roch Brada - DSCN0304.JPG</title><script src="/community/js/rate.js" type="text/javascript"></script><link rel="stylesheet" href="/community/css/users/topbar-1a.css" type="text/css" media="screen,projection,print" /><link rel="stylesheet" href="/community/css/themes/mobile01.css" type="text/css" media="handheld" /><link rel="stylesheet" href="/community/css/users/114/mobile.css" type="text/css" media="handheld" /><link rel="stylesheet" href="/community/css/users/114/main.css" type="text/css" media="screen,projection,print" /><link rel="stylesheet" href="/community/css/themes/mobilealbums01.css" type="text/css" media="handheld" /><link rel="stylesheet" href="/community/css/users/114/photos.css" type="text/css" media="screen,projection,print" /><link rel="stylesheet" href="http://files.myopera.com/Gusioo/user.css" type="text/css" media="screen,projection,print" charset="utf-8" /><script type="text/javascript"><!--
+document.cookie='__support_check=1';
+wa_tz=new Date();wa_data='&an='+escape(navigator.appName)+
+'&hr='+escape(location.href)+'&tks='+wa_tz.getTime()+
+'&ck='+document.cookie.length+
+'&rf='+escape(document.referrer)+'&sl='+escape(navigator.systemLanguage)+
+'&av='+escape(navigator.appVersion)+'&l='+escape(navigator.language)+
+'&pf='+escape(navigator.platform)+'&pg='+escape(location.pathname);
+wa_data=wa_data+'&cd='+
+screen.colorDepth+'&rs='+escape(screen.width+' x '+screen.height)+
+'&tz='+wa_tz.getTimezoneOffset()+'&je='+ navigator.javaEnabled(); wa_img=new
+Image();wa_img.src='http://profiles.hitslink.com/statistics.aspx'+
+'?profile=1'+wa_data+'&tks='+wa_tz.getTime();
+--></script><script src="/community/js/myopera-hitslink.js" type="text/javascript"></script><script src="/community/js/toggle.js" type="text/javascript"></script><link rel="shortcut icon" href="/community/favicon.ico" type="image/x-icon" /><link rel="meta" type="application/rdf+xml" title="FOAF" href="/Gusioo/xml/foaf/" /><link rel="alternate" type="application/rss+xml" title="RSS 2.0 Feed for photo album" href="/Gusioo/xml/rss/album/51908" /><link rel="alternate" type="application/atom+xml" title="Atom 1.0 Feed for photo album" href="/Gusioo/xml/atom/album/51908" /><link rel="index" href="/Gusioo/albums/show.dml?id=51908" /><link rel="prev" href="/Gusioo/albums/showpic.dml?album=51908&amp;picture=630528" /><link rel="next" href="/Gusioo/albums/showpic.dml?album=51908&amp;picture=657564" /></head>
+<body id="myopera"><div id="wrap0"><div id="topbar1"><div id="topbar2"><div id="mtop" class="mobile"><a href="/"><img src="/community/graphics/topbar/m-powered.gif" width="115" height="21" alt="Opera powered" /></a></div><p class="hidemobile"><a href="/community/"><img src="/community/graphics/topbar/powered.gif" width="123" height="24" alt="Opera Powered" /></a><a href="/community/signup/"><img src="/community/graphics/topbar/signup3.gif" width="70" height="24" alt="sign up" /></a><a href="/community/login/" onclick="document.getElementById('toplogin').className = 'show'; return false;"><img src="/community/graphics/topbar/login2.gif" width="69" height="24" alt="log in" /></a></p></div><form action="//account/update_status.pl" method="post" id="editstatus" class="hide"><p><label for="updstatus">Update your status:</label> <input type="text" name="status" value="" id="updstatus" maxlength="128" class="mystatus-input" /> <input type="submit" name="submit" id="status-save" value="save" /><a href="./" onclick="javascript:toggleStatus('editstatus');return false;" style="text-decoration:none;"><input style="color:#fff;margin-left:0;" type="button" value="x" /></a><img src="/community/graphics/loading1.gif" width="22" height="21" id="status-loading" alt="loading" style="display:none" /><span id="status-error" style="display:none">Error saving status</span></p></form></div><form action="/community/login/index.pl" method="post" class="hide" id="toplogin"><div><p><span class="m"><label for="username"><strong><span>username:</span></strong> <input type="text" name="user" value="" maxlength="64" class="login" id="username" /></label> </span><span class="m"><label for="password"><strong><span>password:</span></strong> <input type="password" name="passwd" value="" maxlength="64" class="login" id="password" /></label> </span><span class="m"><label for="rememberme"><span>remember <input type="checkbox" name="remember" value="1" id="rememberme" /></span></label> <input type="image" src="/community/graphics/topbar/login2.gif" alt="log in" style="color:#fff" class="hidemobile" /></span><input type="submit" value="log in" class="mobile" /></p></div><p class="mobile" style="padding:5px;border-top:1px dashed #aaa;margin-top:8px"><b><a href="/community/signup/" style="color:#06c">Sign up</a></b> | <a href="/community/help/signup/" style="color:#000">Help</a></p></form><div id="wrap1" class="twocol"><div id="wrap2"><div id="wrap3"><div id="wrap4"><div id="top" class="top-albums"><p class="hide"><a href="#content">Skip navigation</a>.</p><div id="top2"><h1><span>Zdjęcia, które Roch popełnił</span></h1><p id="subtitle"><span>Rowerowe też są</span></p></div><div id="menu"><ul><li id="menu_blog"><a href="/Gusioo/blog/">
+		Blog
+		</a></li><li id="menu_archive"><a href="/Gusioo/archive/">Archive</a></li><li id="menu_albums"><a href="/Gusioo/albums/" id="selected">Photos</a></li><li id="menu_links"><a href="/Gusioo/links/">Links</a></li><li id="menu_friends"><a href="/Gusioo/friends/">Friends</a></li><li id="menu_about"><a href="/Gusioo/about/">About</a></li></ul><div class="mobile" id="mobmenu"></div></div></div><div id="content" class="viewphoto"><div id="mainwrap"><div id="main">
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+<div id="frame1"><div id="frame2"><div id="frame3"><div id="frame4"><a href="http://files.myopera.com/Gusioo/albums/51908/DSCN0304.JPG"><img src="http://files.myopera.com/Gusioo/albums/51908/DSCN0304.JPG" title="Click to zoom image" alt="Bikes - DSCN0304.JPG" class="scaled" id="bigimg" /></a><p>
+		&lt; <a href="/Gusioo/albums/showpic.dml?album=51908&amp;picture=630528">Prev<span class="hidemobile">ious</span></a> | <a href="/Gusioo/albums/show.dml?id=51908">View all</a> | <a href="/Gusioo/albums/showpic.dml?album=51908&amp;picture=657564">Next</a> &gt;
+		</p></div></div></div></div><div id="belowimage"></div><div class="w100"><div id="login-here"><h2>Write a comment</h2><div id="login-message"><p><img src="/community/graphics/info.gif" width="16" height="16" alt="" class="icon" /> 
+                        You must be logged in to write a comment. if you're not a registered member, please 
+                         <a href="/community/signup/" onclick="document.getElementById('signup-here').className = ''; return false;">sign up</a>.
+                           </p><form action="/community/login/index.pl" method="post"><div class="cc1"><label for="usrname">User name:</label><input type="text" name="user" value="" maxlength="64" id="usrname" /></div><div class="cc2"><label for="passwd">Password:</label><input type="password" name="passwd" value="" maxlength="64" id="passwd" /> <input type="submit" value="login" id="loginbutton" /></div></form><div class="clear"></div></div></div></div><br class="clear" /><div class="w100"><div id="signup-here" class="hide"><h2>SIGN UP</h2><p>
+                           My page is hosted by <a href="http://my.opera.com/community/">Opera Community</a>. When you sign up you get access to post comments on my page aswell as
+                           all other pages hosted on my.opera.com. You also get access to free services provided by Opera Community, such as blogs and photo albums.
+                        </p><p><img src="/community/graphics/icons/lock.gif" width="21" height="19" alt="lock icon" class="icon" />
+                      The data you provide during the registration is safe with us, we do not share it with third parties.</p><p><b>All fields are required:</b></p><form action="/community/signup/signup.pl" method="post" name="newusersignup" id="newusersignup"><div><input type="hidden" name="location" value="/Gusioo/albums/showpic.dml?album%3D51908%26picture%3D630525" /><table cellspacing="2" id="signup-table"><tr class="lines"><td><label for="username">Username:</label></td><td><input type="text" name="username" value="" maxlength="50" class="input" id="username" /></td></tr><tr class="lines"><td><label for="password">Password:</label></td><td><input type="password" name="password" value="" class="input" id="password" /></td></tr><tr class="lines"><td><label for="passwordconfirm">Re-type password:</label></td><td><input type="password" name="passwordconfirm" value="" class="input" id="passwordconfirm" /></td></tr><tr class="lines"><td><label for="email">E-mail address:</label></td><td><input type="text" name="email" value="" class="input" id="email" /></td></tr><tr class="lines"><td colspan="2"><p><span>Pl&#x65;a&#x73;</span><!-- id2846666 --><span>e &#x74;</span><!-- id2846689 --><span>ype</span><!-- id2846693 --><span> this s</span><!-- id2891391 --><span>ecu&#x72;it&#x79; cod</span><!-- id2839938 --><span>e &#x3A;</span><!-- id2839945 --><span> 34</span><!-- id2919050 --><span>9</span><!-- id2919057 --><span>a</span><!-- id2842772 --><span>79</span><!-- id2842780 --><input value="228ddd4474016e4435f6952e51b98354_1189966824" type="hidden" name="publickey" /></p><p><label for="oivinput" class="c1"><strong>Security code:</strong></label> <input type="text" name="oivinput" id="oivinput" class="inputfield" /></p></td></tr></table><input type="hidden" name="hidemail" value="1" checked="checked" /><p><input type="checkbox" name="agree" value="1" id="agree" /> <label for="agree">I agree to the terms</label></p><input type="hidden" name="step2" value="true" /><p><input type="submit" value="Register now" class="submit" /></p></div></form><div id="terms"><h3>Terms</h3><p>
+                           By clicking 'I agree to the terms', you warrant that you will not upload files that are obscene, vulgar,
+                           sexually-orientated, hateful, threatening, or otherwise violative of any laws. The owners of Opera community
+                           have the right to remove files and close any account for any reason.
+                        </p></div></div></div>
+
+</div></div><div id="sidewrap"><div id="side"><div class="sidebox" id="imageproperties"><h2>Image properties</h2><div id="myphoto" class="hidemobile"><div><img src="http://files.myopera.com/Gusioo/albums/51908/thumbs/DSCN0304.JPG_thumb.jpg" width="214" height="161" alt="DSCN0304.JPG" /></div></div><div class="pad"><dl id="exif" class="clearfix"><dt class="filename">Name</dt><dd class="filename">DSCN0304.JPG</dd><dt class="access">Access</dt><dd class="access">Publicly available</dd><dt>Camera</dt><dd>NIKON E5600</dd><dt>Original resolution</dt><dd>2592 x 1944</dd><dt>F-number</dt><dd>f/4.9</dd><dt>Picture taken</dt><dd>2005:11:11 11:41:59</dd></dl><div class="clear"></div></div></div><div class="sidebox hidemobile" id="picnav"><h2><a href="/Gusioo/albums/show.dml?id=51908">Bikes</a></h2><div class="pad clearfix"><div class="preview" id="p1"><a href="/Gusioo/albums/showpic.dml?album=51908&amp;picture=630528"><img src="http://files.myopera.com/Gusioo/albums/51908/thumbs/DSCN0298.JPG_thumb.jpg" width="102" height="77" class="block" alt="DSCN0298.JPG" />
+		« Previous</a></div><div class="preview" id="p2"><a href="/Gusioo/albums/showpic.dml?album=51908&amp;picture=657564"><img src="http://files.myopera.com/Gusioo/albums/51908/thumbs/DSCN0446.JPG_thumb.jpg" width="102" height="77" class="block" alt="DSCN0446.JPG" />
+		Next »</a></div><div class="clear"></div></div></div><div class="sidebox"><h2>More albums</h2><div class="pad" id="albumlist"><ul><li><a href="/Gusioo/albums/show.dml?id=51347">Ferie </a></li><li class="even this"><a href="/Gusioo/albums/show.dml?id=51908">Bikes</a></li><li><a href="/Gusioo/albums/show.dml?id=66288">Sucha Góra 2006</a></li><li class="even"><a href="/Gusioo/albums/show.dml?id=104273">Segiet 2006</a></li><li><a href="/Gusioo/albums/show.dml?id=154973">Jesienny wypad</a></li><li class="even"><a href="/Gusioo/albums/show.dml?id=179036">Święta 2006</a></li><li><a href="/Gusioo/albums/show.dml?id=232260">W poszukiwaniu wiosny</a></li><li class="even"><a href="/Gusioo/albums/show.dml?id=242938">Samotna sobota</a></li><li><a href="/Gusioo/albums/show.dml?id=249090">Pyrzowice</a></li><li class="even"><a href="/Gusioo/albums/show.dml?id=255553">Pniowiec i okolice</a></li><li><a href="/Gusioo/albums/show.dml?id=273851">Bunkier</a></li><li class="even"><a href="/Gusioo/albums/show.dml?id=294126">Okoliczności Kamieńca</a></li><li><a href="/Gusioo/albums/show.dml?id=333172">Słoneczny dzień</a></li><li class="even"><a href="/Gusioo/albums/show.dml?id=341749">Jura - 20-08-2007</a></li></ul></div></div></div></div><div id="footer"><div id="footer2"><p id="meta"><a href="/Gusioo/xml/rss/album/51908/" title="RSS 2.0 Feed for photo album"><acronym>RSS</acronym></a> | <a href="/Gusioo/xml/atom/album/51908/" title="Atom 1.0 Feed for photo album">ATOM</a> | <a href="/Gusioo/xml/rdf/album/51908" title="RDF representation of photo album">RDF</a> | 
+		<span><a href="/Gusioo/xml/rss/album/51908/"><img src="/community/graphics/feedicon12.gif" width="12" height="12" alt="" class="feedicon" /></a></span><a href="http://widgets.opera.com/widgetize/Gallery Viewer/My Opera/?serve&amp;skin=skin114&amp;widgetname=Blog Rowerowy&amp;rel=myopera&amp;ref=Gusioo" id="widgetize-album" class="widgetize">WIDGETIZE <img src="/community/graphics/widgetize12.gif" width="12" height="12" alt="widgetize" /></a></p><p>
+		A proud member of the <a href="http://my.opera.com/community/" id="o">My Opera community</a>. [ <a href="/community/disclaimer/">Disclaimer</a> ]
+
+		</p></div></div></div></div></div></div></div></div></body>
+</html>
